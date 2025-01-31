@@ -16,7 +16,7 @@ node extract_logs.js <log_file_path> <date>
 
 ### Example
 ```bash
-node extract_logs.js sample_logs.log 2024-12-01
+node extract_logs.js C:\Users\VINIT\Downloads\tech-campus-recruitment-2025-main\test_logs.log 2024-12-01
 ```
 
 ## Output
